@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "backend-endpointapi",
+    "instastaging": "instagramclone-reactnative"
+  }
+}
